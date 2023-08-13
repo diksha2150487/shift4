@@ -1,0 +1,136 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.amazing-shift-main {
+  display: flex;
+  margin-bottom: 6rem;
+}
+.genomics-left {
+  padding: 5rem 0rem 0rem 7rem;
+}
+.anatomy-right {
+  padding: 3rem 7rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.BPM {
+  font-size: 22px;
+  color: #33475b;
+  text-align: left;
+  line-height: 50px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  max-width: 50%;
+}
+.audit {
+  font-size: 16px;
+  color: #33475b;
+  text-align: left;
+  line-height: 26px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  max-width: 65%;
+  padding-top: 16px;
+}
+.sky-moon {
+  font-size: 16px;
+  color: #33475b;
+  text-align: left;
+  line-height: 26px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  max-width: 62%;
+  padding-top: 10px;
+}
+.koko {
+  max-width: 450px;
+  border-radius: 4px;
+}
+.core-devo {
+  color: white;
+  background-color: #1265ff;
+  border-radius: 9px;
+  font-size: 22px;
+  padding: 8px 12px 8px 12px;
+  margin-right: 8px;
+}
+.molwte {
+  font-size: 24px;
+  color: #33475b;
+  text-align: left;
+  line-height: 30px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+/* ************************************************************* */
+.shift4-development-part {
+  align-items: center;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  background-color: #f9f9f9;
+}
+.unity {
+  font-family: "Poppins", sans-serif;
+  font-size: 34px;
+  font-weight: 600;
+  line-height: 54px;
+  letter-spacing: 0em;
+  text-align: center;
+  padding-top: 3%;
+  color: #2c3238;
+}
+.card-sliders {
+  display: flex;
+}
+.vires {
+  color: white;
+  background-color: #0e52fc;
+  border-radius: 3px;
+  font-size: 28px;
+  padding: 6px 12px 6px 12px;
+  margin-right: 8px;
+  letter-spacing: 0.84px;
+}
+.same-line-box {
+  display: flex;
+}
+.watch-time {
+  width: 60px;
+  height: 60px;
+}
+.first1 {
+  margin: 15px;
+  background-color: #ffffff;
+  border-radius: 7px;
+  max-width: 340px;
+  height: 330px;
+  padding: 1.5rem 5px 0rem 2rem;
+  text-align: left;
+  border: 1px solid #dba800;
+}
+.hookup {
+  max-width: 15rem;
+  /* letter-spacing: 1px; */
+  font-size: 20px;
+  line-height: 25px;
+  font-family: "Poppins", sans-serif;
+  color: #33475b;
+  padding-top: 8px;
+  padding-left: 10px;
+  font-weight: 600;
+}
+.mozorala {
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  padding-top: 16px;
+  align-self: start;
+  line-height: 22px;
+  color: #33475b;
+  opacity: 0.9;
+
+  font-weight: 200;
+}
