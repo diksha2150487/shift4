@@ -290,7 +290,7 @@
 }
 .diamond {
   font-family: "Poppins", sans-serif;
-  font-size: 30px;
+  font-size: 32px;
   font-weight: 600;
   line-height: 54px;
   letter-spacing: 0em;
@@ -299,17 +299,17 @@
   color: #33475b;
 }
 .water-card-part {
-  align-items: center;
-  text-align: center;
   justify-content: center;
   width: 100%;
-  background-color: aqua;
+  margin-top: 40px;
 }
 .Months-step-main {
   display: flex;
+  justify-content: center;
 }
 .third-with-main-section {
   display: flex;
+  justify-content: center;
 }
 .provegn {
   margin: 7px;
@@ -391,13 +391,13 @@
 /* ***************************************************************************** */
 .group-main {
   width: 100%;
-  margin-bottom: 4rem;
 }
 .jio {
   width: 100%;
   background-image: url("./images/grou-main.png");
   background-repeat: no-repeat;
   background-size: cover;
+  margin-top: 2rem;
 }
 .contact {
   max-width: 52%;
@@ -415,16 +415,6 @@
   text-align: left;
   color: white;
   max-width: 61%;
-}
-.bord {
-  margin-top: 2.5rem;
-  padding: 18px 50px 18px 50px;
-  font-size: 15px;
-  color: #33475b;
-  font-weight: 600;
-  border: none;
-  cursor: pointer;
-  background-color: white;
 }
 .high-over {
   color: #0e52fc;
@@ -445,6 +435,7 @@
 }
 .front-icon {
   margin-top: 4rem;
+  display: flex;
 }
 .website {
   font-family: "Poppins", sans-serif;
@@ -452,5 +443,11 @@
   font-weight: 200;
   line-height: 40px;
   text-align: left;
+  color: white;
+}
+#fArrow {
+  font-size: 16px;
+  margin-top: 13px;
+  margin-left: 5px;
   color: white;
 }

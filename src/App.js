@@ -14,6 +14,7 @@ import img12 from "./images/inventory 1.png";
 import img13 from "./images/clipboard 1.png";
 import img14 from "./images/order-fulfillment 1.png";
 import img15 from "./images/max-war.png";
+import { AiOutlineArrowRight } from "react-icons/ai";
 function App() {
   return (
     <div>
@@ -293,55 +294,52 @@ function App() {
               </p>
             </div>
             <div className="provegn" id="blopo">
-              <p className="expert">Certified Experts</p>
+              <p className="expert">Experienced Team</p>
               <hr id="semi" />
               <p className="mozo">
-                We are a Shift4Shop website design and development company
-                comprising certified professionals, all of whom are experts in
-                their respective fields with substantial years of professional
-                experience.
+                With 11+ years of experience, we have a team of experts
+                experienced in all aspects of the development process. With us,
+                you get everything from Shift4Shop theme development to
+                post-launch support.
               </p>
             </div>
             <div className="provegn" id="mack">
-              <p className="expert">Certified Experts</p>
+              <p className="expert">30 Days Free Support</p>
               <hr id="faho" />
               <p className="mozo">
-                We are a Shift4Shop website design and development company
-                comprising certified professionals, all of whom are experts in
-                their respective fields with substantial years of professional
-                experience.
+                We don’t just get the job done for you; our team of experienced
+                developers offers 30 days of free support after launch to ensure
+                you get the best out of the journey and worth every penny.
               </p>
             </div>
           </div>
           <div className="third-with-main-section">
             <div className="provegn" id="moting">
-              <p className="expert">Certified Experts</p>
+              <p className="expert">Proven Method</p>
               <hr id="shoot" />
               <p className="mozo">
-                We are a Shift4Shop website design and development company
-                comprising certified professionals, all of whom are experts in
-                their respective fields with substantial years of professional
-                experience.
+                We follow the agile methodology for every development providing
+                complete client satisfaction and ensuring your eCommerce
+                websites are user-friendly and intuitive.
               </p>
             </div>
             <div className="provegn" id="grey-main">
-              <p className="expert">Certified Experts</p>
+              <p className="expert">Client Satisfaction</p>
               <hr id="jalko" />
               <p className="mozo">
-                We are a Shift4Shop website design and development company
-                comprising certified professionals, all of whom are experts in
-                their respective fields with substantial years of professional
-                experience.
+                We are the worldwide leader with over 100+ satisfied customers.
+                We are the tested and trusted Shift4Shop eCommerce developers
+                for your every requirement. You say it, and we will build it.
               </p>
             </div>
             <div className="provegn" id="wahaa">
-              <p className="expert">Certified Experts</p>
+              <p className="expert">Excellent Quality</p>
               <hr id="thems" />
               <p className="mozo">
-                We are a Shift4Shop website design and development company
-                comprising certified professionals, all of whom are experts in
-                their respective fields with substantial years of professional
-                experience.
+                Our Shift4Shop development services are the one that guarantees
+                your satisfaction. With us, you get not just great eCommerce
+                development services but also the services that make your
+                business unique.
               </p>
             </div>
           </div>
@@ -362,6 +360,7 @@ function App() {
             </p>
             <div className="front-icon">
               <p className="website">View Website</p>
+              <AiOutlineArrowRight id="fArrow" />
             </div>
           </div>
         </div>
