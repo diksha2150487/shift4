@@ -15,6 +15,27 @@ import img13 from "./images/clipboard 1.png";
 import img14 from "./images/order-fulfillment 1.png";
 import img15 from "./images/max-war.png";
 import { AiOutlineArrowRight } from "react-icons/ai";
+import Carousel from "react-multi-carousel";
+import "react-multi-carousel/lib/styles.css";
+const responsive = {
+  superLargeDesktop: {
+    // the naming can be any, depends on you.
+    breakpoint: { max: 4000, min: 3000 },
+    items: 5,
+  },
+  desktop: {
+    breakpoint: { max: 3000, min: 1024 },
+    items: 3,
+  },
+  tablet: {
+    breakpoint: { max: 1024, min: 464 },
+    items: 2,
+  },
+  mobile: {
+    breakpoint: { max: 464, min: 0 },
+    items: 1,
+  },
+};
 function App() {
   return (
     <div>
@@ -45,13 +66,13 @@ function App() {
           <img src={img1} alt="logo" className="koko"></img>
         </div>
       </div>
-      {/* ************************************************************************** */}
+      {/* ************************** */}
       <div className="shift4-development-part">
         <p className="unity">
           Shift4Shop Development <span className="vires">Services</span> We
           Offer
         </p>
-        <div className="card-sliders">
+        <Carousel responsive={responsive} className="crousel">
           <div className="faq-yellow-card">
             <div className="same-line-box">
               <img src={img2} className="troloy" alt="logo" />
@@ -101,7 +122,7 @@ function App() {
               infinitely expandable.
             </p>
           </div>
-          {/* <div className="allgos-slider ">
+          <div className="allgos-slider ">
             <div className="same-line-box">
               <img src={img6} className="dark-green-img" alt="logo" />
               <p className="hookup">Shift4Shop Migration Experts</p>
@@ -139,10 +160,11 @@ function App() {
               are excellent for WordPress to Shift4Shop, WooCommerce to
               Shift4Shop, and Magento to Shift4Shop.
             </p>
-          </div> */}
-        </div>
+          </div>
+        </Carousel>
+        ;<div className="card-sliders"></div>
       </div>
-      {/* ************************************************************************ */}
+      {/* ************************ */}
       <div className="snip1390">
         <p className="laborty">
           Shift4Shop <span className="colegion">Solutions & Integrations</span>{" "}
@@ -275,7 +297,7 @@ function App() {
           </div>
         </div>
       </div>
-      {/* /*********************************************************************** */}
+      {/* /************************* */}
       <div className="cngo-protctive">
         <p className="diamond">
           Why <span className="coffigo">Choose Us</span> for Shift4Shop
@@ -345,7 +367,7 @@ function App() {
           </div>
         </div>
       </div>
-      {/* ********************************************************************************************** */}
+      {/* ******************************** */}
       <div className="group-main">
         <p className="sicso">
           Our

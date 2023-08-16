@@ -3,19 +3,23 @@
   margin: 0;
   padding: 0;
 }
+
 .amazing-shift-main {
   display: flex;
   margin-bottom: 6rem;
 }
+
 .genomics-left {
   padding: 5rem 0rem 0rem 7rem;
 }
+
 .anatomy-right {
   padding: 3rem 7rem 0rem 0rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
+
 .BPM {
   font-size: 22px;
   color: #33475b;
@@ -25,6 +29,7 @@
   font-weight: 600;
   max-width: 50%;
 }
+
 .audit {
   font-size: 16px;
   color: #33475b;
@@ -35,6 +40,7 @@
   max-width: 65%;
   padding-top: 16px;
 }
+
 .sky-moon {
   font-size: 16px;
   color: #33475b;
@@ -45,10 +51,12 @@
   max-width: 62%;
   padding-top: 10px;
 }
+
 .koko {
   max-width: 450px;
   border-radius: 4px;
 }
+
 .core-devo {
   color: white;
   background-color: #1265ff;
@@ -57,6 +65,7 @@
   padding: 8px 12px 8px 12px;
   margin-right: 8px;
 }
+
 .molwte {
   font-size: 24px;
   color: #33475b;
@@ -65,7 +74,8 @@
   font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
-/* **************************************************************************************** */
+
+/* ****************************** */
 .shift4-development-part {
   align-items: center;
   width: 100%;
@@ -106,79 +116,70 @@
   width: 50px;
   height: 50px;
 }
+.crousel {
+  display: flex;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 80px;
+}
 .faq-yellow-card {
-  margin: 15px;
   background-color: #ffffff;
   border-radius: 17px;
   max-width: 310px;
-  /* height: 330px; */
-  padding: 1.5rem 1.2rem 3rem 2rem;
+  padding: 1.5rem 1.2rem 4rem 2rem;
   text-align: left;
   border: 1px solid #dba800;
 }
 .shopfiy-slider {
   border: 1px solid #21a5aa;
-  margin: 15px;
   background-color: #ffffff;
   border-radius: 17px;
   max-width: 310px;
-  /* height: 330px; */
-  padding: 1.5rem 1.2rem 3rem 2rem;
+  padding: 1.5rem 1.2rem 4rem 2rem;
   text-align: left;
 }
 .qeoto-slider {
   border: 1px solid #0037ff;
   background-color: #ffffff;
   border-radius: 17px;
-  margin: 15px;
   max-width: 310px;
-  /* height: 330px; */
   padding: 1.5rem 1.2rem 3rem 2rem;
   text-align: left;
 }
 .holqwking-slider {
   border: 1px solid #ff5e85;
-  margin: 15px;
   background-color: #ffffff;
   border-radius: 17px;
   max-width: 310px;
-  /* height: 330px; */
   padding: 1.5rem 1.2rem 3rem 2rem;
   text-align: left;
 }
 .allgos-slider {
   border: 1px solid #7956ff;
-  margin: 15px;
   background-color: #ffffff;
   border-radius: 17px;
   max-width: 310px;
-  /* height: 330px; */
-  padding: 1.5rem 1.2rem 3rem 2rem;
+  padding: 1.5rem 1.2rem 1.5rem 2rem;
   text-align: left;
 }
 .surveyor-slider {
   border: 1px solid black;
-  margin: 15px;
   background-color: #ffffff;
   border-radius: 17px;
   max-width: 310px;
-  /* height: 330px; */
-  padding: 1.5rem 1.2rem 3rem 2rem;
+  padding: 1.5rem 1.2rem 1.5rem 2rem;
   text-align: left;
 }
 .maters-slider {
   border: 1px solid #f845c6;
-  margin: 15px;
   background-color: #ffffff;
   border-radius: 17px;
   max-width: 310px;
-  /* height: 330px; */
-  padding: 1.5rem 1.2rem 3rem 2rem;
+  padding: 1.5rem 1.2rem 1.5rem 2rem;
   text-align: left;
 }
 .hookup {
   max-width: 15rem;
-  /* letter-spacing: 1px; */
   font-size: 16px;
   line-height: 25px;
   font-family: "Poppins", sans-serif;
@@ -196,10 +197,12 @@
   color: #33475b;
   opacity: 0.8;
 }
-/* ************************************************************************* */
+
+/* ************************* */
 .snip1390 {
   margin-top: 4rem;
 }
+
 .colegion {
   color: white;
   background-color: #0e52fc;
@@ -208,6 +211,7 @@
   padding: 4px 10px 4px 10px;
   letter-spacing: 0.84px;
 }
+
 .laborty {
   font-family: "Poppins", sans-serif;
   font-size: 34px;
@@ -218,17 +222,21 @@
   padding-top: 3%;
   color: #33475b;
 }
+
 .differtion {
   margin-top: 30px;
 }
+
 .card-virus-main-lofo {
   display: flex;
   justify-content: center;
 }
+
 .card-main-lefo-second {
   display: flex;
   justify-content: center;
 }
+
 .card-virus-lg {
   background: #fff;
   margin: 15px;
@@ -238,6 +246,7 @@
   padding: 2rem 1.2rem 7rem 1.3rem;
   text-align: left;
 }
+
 .covid-virus {
   text-align: center;
   align-items: center;
@@ -245,6 +254,7 @@
   margin-right: auto;
   max-width: 60%;
 }
+
 .title {
   max-width: 18rem;
   font-size: 16px;
@@ -254,6 +264,7 @@
   padding-top: 8px;
   font-weight: 600;
 }
+
 .sub-title {
   font-family: "Poppins", sans-serif;
   font-size: 15px;
@@ -263,23 +274,29 @@
   color: #33475b;
   opacity: 0.9;
 }
+
 .content {
   padding-top: 40px;
 }
+
 #gwon {
   border: 1px solid #21a5aa;
 }
+
 #dolll {
   border: 1px solid #e8cf92;
 }
+
 #bublle {
   border: 1px solid #7956ff;
 }
-/* ************************************************************************************** */
+
+/* ****************************** */
 .cngo-protctive {
   margin-top: 3rem;
   width: 100%;
 }
+
 .coffigo {
   color: white;
   background-color: #0e52fc;
@@ -288,6 +305,7 @@
   padding: 4px 10px 4px 10px;
   letter-spacing: 0.84px;
 }
+
 .diamond {
   font-family: "Poppins", sans-serif;
   font-size: 32px;
@@ -298,19 +316,23 @@
   padding-top: 3%;
   color: #33475b;
 }
+
 .water-card-part {
   justify-content: center;
   width: 100%;
   margin-top: 40px;
 }
+
 .Months-step-main {
   display: flex;
   justify-content: center;
 }
+
 .third-with-main-section {
   display: flex;
   justify-content: center;
 }
+
 .provegn {
   margin: 7px;
   background-color: #ffedf2;
@@ -319,6 +341,7 @@
   padding: 1rem 1.3rem 2rem 1rem;
   text-align: left;
 }
+
 .expert {
   max-width: 15rem;
   font-size: 16px;
@@ -328,12 +351,14 @@
   padding-top: 3px;
   font-weight: 600;
 }
+
 #short-viggly-line {
   width: 60px;
   height: 1px;
   margin-top: 10px;
   border: 1.6px solid #ff4171;
 }
+
 .mozo {
   font-family: "Poppins", sans-serif;
   font-size: 15px;
@@ -343,55 +368,67 @@
   color: #33475b;
   opacity: 0.8;
 }
+
 #blopo {
   background-color: #e2f7f6;
 }
+
 #semi {
   width: 60px;
   height: 1px;
   margin-top: 10px;
   border: 1.6px solid #169890;
 }
+
 #mack {
   background-color: #fff9e6;
 }
+
 #faho {
   width: 60px;
   height: 1px;
   margin-top: 10px;
   border: 1.6px solid #ddaa0d;
 }
+
 #moting {
   background-color: #e5f1ff;
 }
+
 #grey-main {
   background-color: #f5f5f5;
 }
+
 #wahaa {
   background-color: #fff5ed;
 }
+
 #shoot {
   width: 60px;
   height: 1px;
   margin-top: 10px;
   border: 1.6px solid #2371cb;
 }
+
 #jalko {
   width: 60px;
   height: 1px;
   margin-top: 10px;
   border: 1.6px solid #000000;
 }
+
 #thems {
   width: 60px;
   height: 1px;
   margin-top: 10px;
   border: 1.6px solid #f37b20;
 }
-/* ***************************************************************************** */
+
+/* *************************** */
 .group-main {
   width: 100%;
 }
+
 .jio {
   width: 100%;
   background-image: url("./images/grou-main.png");
@@ -399,14 +436,17 @@
   background-size: cover;
   margin-top: 2rem;
 }
+
 .contact {
   max-width: 52%;
   padding: 2rem 0rem 8rem 5rem;
 }
+
 #waar {
   padding: 8rem 0rem 0rem 5rem;
   width: 230px;
 }
+
 .in-house {
   font-family: "Poppins", sans-serif;
   font-size: 28px;
@@ -416,6 +456,7 @@
   color: white;
   max-width: 61%;
 }
+
 .high-over {
   color: #0e52fc;
   border-radius: 5px;
@@ -423,6 +464,7 @@
   padding: 4px 10px 4px 10px;
   letter-spacing: 0.84px;
 }
+
 .sicso {
   font-family: "Poppins", sans-serif;
   font-size: 30px;
