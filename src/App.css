@@ -197,7 +197,6 @@
   color: #33475b;
   opacity: 0.8;
 }
-
 /* ************************* */
 .snip1390 {
   margin-top: 4rem;
@@ -492,4 +491,113 @@
   margin-top: 13px;
   margin-left: 5px;
   color: white;
+}
+/* **************************************************************************************** */
+.wordpress-com-main {
+  padding-bottom: 8rem;
+}
+.myclony {
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 40px;
+  text-align: center;
+  padding-top: 3%;
+  color: #33475b;
+}
+.biotech-pro {
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 54px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #33475b;
+}
+.special-brox-main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 3%;
+}
+.shrik-shoot {
+  width: 40px;
+  margin-top: 20px;
+  border: 1.5px solid #0e52fc;
+}
+.liner-gistest {
+  width: 140px;
+  margin-top: 20px;
+  border: 1.5px solid #0e52fc;
+}
+.booklate {
+  max-width: 90px;
+}
+.emojoi-main-section {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.spliti {
+  width: 1px;
+  height: 170px;
+}
+.line-lg {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.first-handle-box {
+  /* margin-left: 12%; */
+  display: flex;
+}
+.white-circle {
+  position: absolute;
+  margin-top: 20px;
+}
+.desdiging {
+  text-align: right;
+}
+.yoly {
+  padding-top: 120px;
+}
+.olo {
+  text-align: left;
+  max-width: 48%;
+}
+.therory {
+  text-align: left;
+  max-width: 48%;
+}
+.devo {
+  text-align: right;
+}
+.finalize {
+  text-align: left;
+  max-width: 48%;
+}
+.quaitty {
+  text-align: right;
+  padding-bottom: 140px;
+}
+.single-top-line {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.double-drop-link {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.surk {
+  width: 1px;
+  height: 170px;
+}
+.pickku {
+  width: 1px;
+  height: 170px;
 }

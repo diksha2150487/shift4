@@ -14,9 +14,16 @@ import img12 from "./images/inventory 1.png";
 import img13 from "./images/clipboard 1.png";
 import img14 from "./images/order-fulfillment 1.png";
 import img15 from "./images/max-war.png";
+import img16 from "./images/Group 1000008019.png";
+import img17 from "./images/Group 1000008018.png";
+import img18 from "./images/Group 1000008020.png";
+import img19 from "./images/Group 1000008021.png";
+import img20 from "./images/Group 1000008022.png";
+import img21 from "./images/pseudo.png";
 import { AiOutlineArrowRight } from "react-icons/ai";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
+
 const responsive = {
   superLargeDesktop: {
     // the naming can be any, depends on you.
@@ -383,6 +390,68 @@ function App() {
             <div className="front-icon">
               <p className="website">View Website</p>
               <AiOutlineArrowRight id="fArrow" />
+            </div>
+          </div>
+        </div>
+      </div>
+      {/* ************************************************************************************************ */}
+      <div className="wordpress-com-main">
+        <p className="myclony">WordPress Development Process</p>
+        <p className="biotech-pro">
+          As a WordPress development agency, we work hard to get your website
+          development projects done following an easy process
+        </p>
+        <div className="router-main-box">
+          <div className="special-brox-main">
+            <hr className="shrik-shoot" />
+            <img src={img16} alt="log" className="booklate"></img>
+            <hr className="liner-gistest"></hr>
+            <img src={img17} alt="logo" className="booklate"></img>
+            <hr className="liner-gistest"></hr>
+            <img src={img18} alt="logo" className="booklate"></img>
+            <hr className="liner-gistest"></hr>
+            <img src={img19} alt="logo" className="booklate"></img>
+            <hr className="liner-gistest"></hr>
+            <img src={img20} alt="logo" className="booklate"></img>
+            <hr className="shrik-shoot" />
+          </div>
+          <div className="emojoi-main-section">
+            <div className="first-handle-box">
+              <p className="yoly">Project initiation</p>
+              <div className="line-lg">
+                <hr className="spliti" />
+                <img src={img21} alt="logo" className="white-circle"></img>
+              </div>
+            </div>
+            <div className="second-handle-box">
+              <p className="desdiging">design</p>
+              <p className="olo">
+                Setting goals as per the requirements of the project
+              </p>
+            </div>
+            <div className="single-top-line">
+              <hr className="surk" />
+              <img src={img21} alt="logo" className="white-circle"></img>
+            </div>
+            <div className="third-handle-box">
+              <p className="therory">
+                Determine the website’s pages, layout, and themes.
+              </p>
+              <p className="devo">Development</p>
+            </div>
+            <div className="double-drop-link">
+              <hr className="pickku" />
+              <img src={img21} alt="logo" className="white-circle"></img>
+            </div>
+            <div className="fourth-handle-box">
+              <p className="finalize">
+                A step which finalizes the basics of the website
+              </p>
+              <p className="quaitty"> Quality Assurance</p>
+            </div>
+            <div className="double-drop-link">
+              <hr className="pickku" />
+              <img src={img21} alt="logo" className="white-circle"></img>
             </div>
           </div>
         </div>
