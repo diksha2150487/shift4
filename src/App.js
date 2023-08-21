@@ -23,7 +23,6 @@ import img21 from "./images/pseudo.png";
 import { AiOutlineArrowRight } from "react-icons/ai";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
-
 const responsive = {
   superLargeDesktop: {
     // the naming can be any, depends on you.
@@ -46,14 +45,14 @@ const responsive = {
 function App() {
   return (
     <div>
-      <div className="amazing-shift-main">
-        <div className="genomics-left">
+      <div className="looking-shift-main">
+        <div className="genomics-logo-accadmy">
           <p className="BPM">
             <span className="core-devo">LET’S BUILD</span>
             the Amazing Shift4Shop
           </p>
           <p className="molwte">Store Together!</p>
-          <p className="audit">
+          <p className="match-audit">
             Build your High-Ranking Online Store with Our Shift4Shop Experts!
             Shift4Shop is an easy-to-use, economic, and fully-hosted platform
             that will simplify your shopping cart by providing quicker
@@ -62,42 +61,41 @@ function App() {
             spends significant time and specializes in the field with
             excellence.
           </p>
-          <p className="sky-moon">
+          <p className="sky-zoolo">
             We are equipped to help the business to grow online because
             eCommerce achievement is 100% of our core interest. Our Shift4Shop
             web design architecture incorporates a variety of free core themes,
             some of which may be ideal for your needs right out of the box.
           </p>
         </div>
-        <div className="anatomy-right">
-          <img src={img1} alt="logo" className="koko"></img>
+        <div className="combo-hichking">
+          <img src={img1} alt="logo" className="kolop"></img>
         </div>
       </div>
       {/* ************************** */}
-      <div className="shift4-development-part">
-        <p className="unity">
-          Shift4Shop Development <span className="vires">Services</span> We
-          Offer
+      <div className="shift4-consing-part">
+        <p className="unity-gp">
+          Shift4Shop Development <span className="vires">Services</span>We Offer
         </p>
         <Carousel responsive={responsive} className="crousel">
-          <div className="faq-yellow-card">
-            <div className="same-line-box">
-              <img src={img2} className="troloy" alt="logo" />
+          <div className="faq-yellow-card-saqty">
+            <div className="same-line-box-popi">
+              <img src={img2} className="bigupoko" alt="logo" />
               <p className="hookup">Shift4Shop Store Setup Service</p>
             </div>
-            <p className="mozorala">
+            <p className="mongolika">
               Our mission is to help you begin and grow your Shift4Shop store
               with our effective Shift4Shop Store Setup Service. As a Shift4Shop
               Partner, we are intimately familiar with the platform and can
               assist you with any of your needs.
             </p>
           </div>
-          <div className="shopfiy-slider">
-            <div className="same-line-box">
+          <div className="shift4-shopfiy-slider">
+            <div className="same-line-box-popi">
               <img src={img3} className="dark-green-img" alt="logo" />
               <p className="hookup">Shift4Shop Custom Design</p>
             </div>
-            <p className="mozorala">
+            <p className="mongolika">
               We can assist you in enhancing the public image of your business
               and creating a distinct brand identity by Custom Shift4Shop
               Design. Customizing Shift4Shop Store Design every few years
@@ -105,11 +103,11 @@ function App() {
             </p>
           </div>
           <div className="qeoto-slider">
-            <div className="same-line-box">
+            <div className="same-line-box-popi">
               <img src={img4} className="dark-green-img" alt="logo" />
               <p className="hookup">Custom Shift4Shop Development</p>
             </div>
-            <p className="mozorala">
+            <p className="mongolika">
               Custom Shift4Shop eCommerce solutions, themes, and API connections
               are what we do best as a top Shift4Shop Development Agency in the
               USA and around the world. WebDeskSolution, a leading Shift4Shop
@@ -117,11 +115,11 @@ function App() {
             </p>
           </div>
           <div className="holqwking-slider ">
-            <div className="same-line-box">
+            <div className="same-line-box-popi">
               <img src={img5} className="dark-green-img" alt="logo" />
               <p className="hookup">Shift4Shop B2B</p>
             </div>
-            <p className="mozorala">
+            <p className="mongolika">
               We help you to build a beautiful, responsive, high-converting
               wholesale eCommerce site with greater efficiency, attractiveness,
               and B2B App. In our role as Shift4Shop experts, we offer
@@ -130,11 +128,11 @@ function App() {
             </p>
           </div>
           <div className="allgos-slider ">
-            <div className="same-line-box">
+            <div className="same-line-box-popi">
               <img src={img6} className="dark-green-img" alt="logo" />
               <p className="hookup">Shift4Shop Migration Experts</p>
             </div>
-            <p className="mozorala">
+            <p className="mongolika">
               Our Shift4Shop Migration Experts have created complete Shift4Shop
               eCommerce migration solutions that make migrating to Shift4Shop
               simple. Any of our Shift4Shop eCommerce store migration services
@@ -143,11 +141,11 @@ function App() {
             </p>
           </div>
           <div className="surveyor-slider ">
-            <div className="same-line-box">
+            <div className="same-line-box-popi">
               <img src={img7} className="dark-green-img" alt="logo" />
               <p className="hookup">Shift4Shop Migration Experts</p>
             </div>
-            <p className="mozorala">
+            <p className="mongolika">
               Our Shift4Shop Migration Experts have created complete Shift4Shop
               eCommerce migration solutions that make migrating to Shift4Shop
               simple. Any of our Shift4Shop eCommerce store migration services
@@ -156,11 +154,11 @@ function App() {
             </p>
           </div>
           <div className="maters-slider ">
-            <div className="same-line-box">
+            <div className="same-line-box-popi">
               <img src={img8} className="dark-green-img" alt="logo" />
               <p className="hookup">Shift4Shop Migration Experts</p>
             </div>
-            <p className="mozorala">
+            <p className="mongolika">
               Our Shift4Shop Migration Experts have created complete Shift4Shop
               eCommerce migration solutions that make migrating to Shift4Shop
               simple. Any of our Shift4Shop eCommerce store migration services
@@ -171,15 +169,15 @@ function App() {
         </Carousel>
         ;<div className="card-sliders"></div>
       </div>
-      {/* ************************ */}
-      <div className="snip1390">
-        <p className="laborty">
-          Shift4Shop <span className="colegion">Solutions & Integrations</span>{" "}
+      {/* ******************************************************** */}
+      <div className="snip1390-290">
+        <p className="laborty-gs">
+          Shift4Shop <span className="coleGio">Solutions & Integrations</span>{" "}
           For Your Store
         </p>
         <div className="differtion">
           <div className="card-virus-main-lofo">
-            <div class="card-virus-lg">
+            <div class="card-virus-lg-qwor">
               <div class="covid-virus">
                 <img src={img9} alt="logo" />
               </div>
@@ -194,7 +192,7 @@ function App() {
                 </p>
               </div>
             </div>
-            <div class="card-virus-lg" id="gwon">
+            <div class="card-virus-lg-qwor" id="gwon">
               <div class="covid-virus">
                 <img src={img10} alt="logo" />
               </div>
@@ -210,7 +208,7 @@ function App() {
                 </p>
               </div>
             </div>
-            <div class="card-virus-lg" id="dolll">
+            <div class="card-virus-lg-qwor" id="dolll">
               <div class="covid-virus">
                 <img src={img11} alt="logo" />
               </div>
@@ -224,7 +222,7 @@ function App() {
                 </p>
               </div>
             </div>
-            <div class="card-virus-lg" id="bublle">
+            <div class="card-virus-lg-qwor" id="bublle">
               <div class="covid-virus">
                 <img src={img12} alt="logo" />
               </div>
@@ -241,7 +239,7 @@ function App() {
             </div>
           </div>
           <div className="card-main-lefo-second">
-            <div class="card-virus-lg">
+            <div class="card-virus-lg-qwor">
               <div class="covid-virus">
                 <img src={img13} alt="logo" />
               </div>
@@ -256,7 +254,7 @@ function App() {
                 </p>
               </div>
             </div>
-            <div class="card-virus-lg" id="gwon">
+            <div class="card-virus-lg-qwor" id="gwon">
               <div class="covid-virus">
                 <img src={img10} alt="logo" />
               </div>
@@ -272,7 +270,7 @@ function App() {
                 </p>
               </div>
             </div>
-            <div class="card-virus-lg" id="dolll">
+            <div class="card-virus-lg-qwor" id="dolll">
               <div class="covid-virus">
                 <img src={img14} alt="logo" />
               </div>
@@ -286,7 +284,7 @@ function App() {
                 </p>
               </div>
             </div>
-            <div class="card-virus-lg" id="bublle">
+            <div class="card-virus-lg-qwor" id="bublle">
               <div class="covid-virus">
                 <img src={img10} alt="logo" />
               </div>
@@ -301,6 +299,9 @@ function App() {
                 </p>
               </div>
             </div>
+          </div>
+          <div className="plinku">
+            <button className="parrot">Let's Get Started</button>{" "}
           </div>
         </div>
       </div>
@@ -375,15 +376,15 @@ function App() {
         </div>
       </div>
       {/* ******************************** */}
-      <div className="group-main">
+      <div className="group-main-mono">
         <p className="sicso">
           Our
-          <span className="high-over">WordPress</span>Web Development{" "}
+          <span className="high-over">Shift4Shop</span>Web Development{" "}
           <span className="high-over"> Portfolio </span>
         </p>
         <div className="jio">
           <img src={img15} id="waar" alt="logo"></img>
-          <div className="contact">
+          <div className="contact-wsal">
             <p className="in-house">
               TECHNOLOGY SHOULD EXPAND YOUR POTENTIAL,NOT LIMIT IT
             </p>
